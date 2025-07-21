@@ -1,9 +1,0 @@
-/target/
-/build/
-.classpath
-.settings
-
-
-.log
-.txt
- node_modules/
