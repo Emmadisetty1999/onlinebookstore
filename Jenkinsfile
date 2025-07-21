@@ -8,7 +8,11 @@ pipeline {
               	    }  
          	    } 
 <<<<<<< HEAD
+<<<<<<< HEAD
 				stage("poll scm)
+=======
+				stage("poll scm ") {  
+>>>>>>> 0a1a76af7a3b1d5455dcf9be55f379fd3934fbb5
            	    steps {  
               	    echo "cloning repository" 
               	    echo "repo cloned successfully"  
